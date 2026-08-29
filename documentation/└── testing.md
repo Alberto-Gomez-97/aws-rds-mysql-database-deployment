@@ -8,19 +8,19 @@ The tests verify database availability, network configuration, endpoint informat
 
 ---
 
-## 1. RDS Database Availability
+## 1. RDS MySQL Configuration
 
 ### Objective
 
-Verify that the Amazon RDS database was successfully created and reached an available state.
+Verify that the RDS database was configured using the MySQL database engine.
 
 ### Validation
 
-The RDS console was used to verify the database status after deployment.
+The Amazon RDS database creation workflow was reviewed to confirm the selected database engine and configuration.
 
 ### Evidence
 
-_Add screenshot here._
+![RDS MySQL Configuration](../screenshots/01-rds-mysql-configuration.png)
 
 ---
 
