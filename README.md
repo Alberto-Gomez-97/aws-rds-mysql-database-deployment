@@ -73,7 +73,7 @@ The connection was tested using the MySQL client/tool and TCP port 3306.
 
 Detailed validation procedures and evidence are available in:
 
-[Testing and Validation](documentation/testing.md)
+[Testing and Validation](https://github.com/Alberto-Gomez-97/aws-rds-mysql-database-deployment/blob/main/documentation/testing.md)
 
 ---
 
