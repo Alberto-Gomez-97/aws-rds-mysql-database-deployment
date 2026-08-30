@@ -41,7 +41,7 @@ The required MySQL port is:
 ```
 Evidence
 
-Add screenshot here.
+![Security Group Configuration](../screenshots/02-security-group.png)
 
 ---
 ## 3. Database Endpoint and Port
@@ -57,7 +57,7 @@ The MySQL connection uses TCP port:
 3306
 
 Evidence
-Add screenshot here.
+![RDS Endpoint and Port](../screenshots/03-rds-endpoint-port.png)
 
 ---
 
@@ -76,7 +76,7 @@ Credentials are not included in this repository.
 
 Evidence
 
-Add screenshot here.
+![EC2 to RDS Connectivity](../screenshots/04-ec2-rds-connectivity.png)
 
 ---
 
@@ -98,7 +98,7 @@ The Security Group permits the required traffic.
 The database credentials are valid.
 Evidence
 
-Add screenshot here.
+![MySQL Query Validation](../screenshots/05-mysql-query-validation.png)
 
 ---
 
